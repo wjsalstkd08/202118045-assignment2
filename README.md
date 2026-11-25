@@ -80,15 +80,15 @@ npm run db:reset
 
 ## 제출 전 작성할 내용
 
--서비스명: 행사 신청, 승인 서비스
--변경파일: src/application-service.js, docs에 사진 추가
--구현 완료 여부: 구현 완료
--실행 환경: Windows 10, Node.js v24.22.1
--보고서: [보고서 PDF](docs/report.pdf)
--검증 증거: [증거 사진 폴더](docs/사진/)
--AI 사용 요약: 
--application-service.js 트랜잭션, apply, revoke 함수 요청, cancel과 approve는 직접 작성 및 일부분 ai에게 요청
--보고서 2: 승인 취소 시퀀스 다이어그램의 뼈대 요청, 이후 직접 작성
--보고서 3,4,5,6: T02, T03, T07, T09, T14, T15, T21, T26, T27, T28, T29, T30의 테스트 방법 및 코드 요청. 해당 방법으로 직접 수행.
+- `서비스명`: 행사 신청, 승인 서비스
+- `변경파일`: src/application-service.js, docs에 사진 추가
+- `구현 완료 여부`: 구현 완료
+- `실행 환경`: Windows 10, Node.js v24.22.1
+- `보고서`: [보고서 PDF](docs/report.pdf)
+- `검증 증거`: [증거 사진 폴더](docs/사진/)
+- `AI 사용 요약`: 
+- `application-service.js`: 트랜잭션, apply, revoke 함수 요청, cancel과 approve는 직접 작성 및 일부분 ai에게 요청
+- `보고서 2`: 승인 취소 시퀀스 다이어그램의 뼈대 요청, 이후 직접 작성
+- `보고서 3,4,5,6`: T02, T03, T07, T09, T14, T15, T21, T26, T27, T28, T29, T30의 테스트 방법 및 코드 요청. 해당 방법으로 직접 수행.
 
 
